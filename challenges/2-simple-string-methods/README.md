@@ -5,9 +5,7 @@
 - Aplica metodos basicos de ruby a variables
 
 ## Resumen
-Crea un una variable `old_string` la cual tenga el valor `"Ruby is cool"`
-
-Usa metodos de la clase `String` para crear una nueva variable `new_string` la cual sea igual `old_string` de modo que ahora sea igual a `"LOOC SI YBUR"` y asigna este nuevo valor a la variable .
+Crea una variable `old_string` la cual tenga el valor `"Ruby is cool"`. Usa metodos de la clase `String` de Ruby para crear una nueva variable `new_string` la cual sea igual a `old_string` leido de derecha a izquierda en mayusculas `"LOOC SI YBUR"`.
 
 ## Pasos
 

@@ -1,6 +1,9 @@
  #Defining Variables
 
 # Tu solucion abajo
+first_name = 'Sebastian'
+last_name = 'Zapata Mardini'
+age = 27
 
 # Pruebas NO LAS BORRES
 

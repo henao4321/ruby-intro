@@ -2,6 +2,7 @@
 
 # Tu solucion abajo:
 
+
 # Pruebas NO LAS BORRES
 
 describe "old_string" do
